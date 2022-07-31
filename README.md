@@ -10,5 +10,3 @@
 5)Postman
 6)MongoDb
 7)https://www.youtube.com/watch?v=FYagSb9-dW0&t=343s
-
-https://github.com/kaankalttakiran/ToDo-Api/blob/main/todo-api/ToDo-T%C3%BCm%20Kay%C4%B1tlar%20(Sayfalamal%C4%B1).png
